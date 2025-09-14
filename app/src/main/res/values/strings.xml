@@ -11,6 +11,14 @@
 
     <string name="latte_title">CAFFE LATTE</string>
     <string name="latte_desc">An espresso with steamed milk and only a little milk foam poured over it.</string>
+
+    <string name="cappuccino_title">CAPPUCCINO</string>
+    <string name="cappuccino_desc">Espresso with steamed milk foam. Classic Italian coffee.</string>
+
+    <string name="mocha_title">MOCHA</string>
+    <string name="mocha_desc">Chocolate flavored espresso with steamed milk.</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
